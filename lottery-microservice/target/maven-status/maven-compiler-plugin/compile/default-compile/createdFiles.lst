@@ -1,0 +1,3 @@
+com\example\lottery\controller\LotteryRestController.class
+com\example\lottery\LotteryMicroserviceApplication.class
+com\example\lottery\service\LotteryService.class
